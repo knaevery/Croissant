@@ -2,3 +2,7 @@
   max-width: 50%;
   display: block;
 }
+
+body {
+  background-color: thistle;
+}
